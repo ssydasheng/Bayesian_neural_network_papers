@@ -22,6 +22,8 @@
 
 8. [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390)
 
+9. [Bayesian Dark Knowledge](https://arxiv.org/abs/1506.04416)
+
 ## Towards more expressive posteriors
 1. [Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors](https://arxiv.org/abs/1603.04733)
 
@@ -52,3 +54,5 @@
 5. [Bayesian GAN](http://papers.nips.cc/paper/6953-bayesian-gan.pdf)
 
 6. [Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks](https://arxiv.org/abs/1605.07127)
+
+7. [Model Selection in Bayesian Neural Networks via Horseshoe Priors](https://arxiv.org/abs/1705.10388)
