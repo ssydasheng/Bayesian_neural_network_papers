@@ -46,6 +46,8 @@
 
 5. [Bayesian Compression for Deep Learning](https://arxiv.org/abs/1705.08665)
 
+6. [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
+
 ## Towards applications
 1. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
 
