@@ -60,3 +60,5 @@
 7. [Model Selection in Bayesian Neural Networks via Horseshoe Priors](https://arxiv.org/abs/1705.10388)
 
 8. [Learning Structural Weight Uncertainty for Sequential Decision-Making](https://arxiv.org/pdf/1801.00085.pdf)
+
+9. [Bayesian Gradient Descent: Online Variational Bayes Learning with Increased Robustness to Catastrophic Forgetting and Weight Pruning](https://arxiv.org/pdf/1803.10123.pdf)
