@@ -24,6 +24,8 @@
 
 9. [Bayesian Dark Knowledge](https://arxiv.org/abs/1506.04416)
 
+10. [Deep Neural networks as Gaussian Processes](https://arxiv.org/pdf/1711.00165.pdf)
+
 ## Towards more expressive posteriors
 1. [Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors](https://arxiv.org/abs/1603.04733)
 
@@ -48,6 +50,8 @@
 
 6. [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
 
+7. [Practical Learning of Deep Gaussian Processes via Random Fourier Features](https://pdfs.semanticscholar.org/bafa/7e2d586e7bfe77d9a55ac1cff4eb2f6ff292.pdf)
+
 ## Towards applications
 1. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
 
@@ -62,3 +66,5 @@
 8. [Learning Structural Weight Uncertainty for Sequential Decision-Making](https://arxiv.org/pdf/1801.00085.pdf)
 
 9. [Bayesian Gradient Descent: Online Variational Bayes Learning with Increased Robustness to Catastrophic Forgetting and Weight Pruning](https://arxiv.org/pdf/1803.10123.pdf)
+
+10. [Variational Continual Learning](https://arxiv.org/pdf/1710.10628.pdf)
