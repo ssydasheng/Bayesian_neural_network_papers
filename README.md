@@ -43,6 +43,8 @@
 
 7. [Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam](https://arxiv.org/abs/1806.04854)
 
+8. [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317)
+
 ## Towards better network structures
 1. [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557)
 
