@@ -26,6 +26,8 @@
 
 10. [Deep Neural networks as Gaussian Processes](https://arxiv.org/pdf/1711.00165.pdf)
 
+11. [Variational Implicit Processes](https://arxiv.org/abs/1806.02390)
+
 ## Towards more expressive posteriors
 1. [Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors](https://arxiv.org/abs/1603.04733)
 
@@ -33,9 +35,13 @@
 
 3. [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
 
-4. [Implicit Variational Inference with Kernel Density Ratio Fitting](https://arxiv.org/abs/1705.10119)
+4. [Kernel Implicit Variational Inference](https://arxiv.org/abs/1705.10119)
 
 5. [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759)
+
+6. [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390)
+
+7. [Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam](https://arxiv.org/abs/1806.04854)
 
 ## Towards better network structures
 1. [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557)
@@ -51,6 +57,12 @@
 6. [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
 
 7. [Practical Learning of Deep Gaussian Processes via Random Fourier Features](https://pdfs.semanticscholar.org/bafa/7e2d586e7bfe77d9a55ac1cff4eb2f6ff292.pdf)
+
+8. [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/abs/1806.05975)
+
+9. [Bayesian Convolutional Neural Networks](https://arxiv.org/abs/1806.05978)
+
+10. [Building Bayesian Neural Networks with Blocks: On Structure, Interpretability and Uncertainty](https://arxiv.org/abs/1806.03563)
 
 ## Towards applications
 1. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
