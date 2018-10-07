@@ -24,9 +24,7 @@
 
 9. [Bayesian Dark Knowledge](https://arxiv.org/abs/1506.04416)
 
-10. [Deep Neural networks as Gaussian Processes](https://arxiv.org/pdf/1711.00165.pdf)
-
-11. [Variational Implicit Processes](https://arxiv.org/abs/1806.02390)
+10. [Variational Implicit Processes](https://arxiv.org/abs/1806.02390)
 
 ## Towards more expressive posteriors
 1. [Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors](https://arxiv.org/abs/1603.04733)
@@ -45,7 +43,7 @@
 
 8. [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317)
 
-## Towards better network structures
+## Towards better models (Structure + Prior)
 1. [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557)
 
 2. [Uncertainty Decomposition in Bayesian Neural Networks with Latent Variables](https://arxiv.org/abs/1706.08495)
@@ -58,13 +56,24 @@
 
 6. [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
 
-7. [Practical Learning of Deep Gaussian Processes via Random Fourier Features](https://pdfs.semanticscholar.org/bafa/7e2d586e7bfe77d9a55ac1cff4eb2f6ff292.pdf)
+7. [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/abs/1806.05975)
 
-8. [Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors](https://arxiv.org/abs/1806.05975)
+8. [Bayesian Convolutional Neural Networks](https://arxiv.org/abs/1806.05978)
 
-9. [Bayesian Convolutional Neural Networks](https://arxiv.org/abs/1806.05978)
+9. [Reliable Uncertainty Estimates in Deep Neural Networks using Noise Contrastive Priors](https://arxiv.org/abs/1807.09289)
 
-10. [Building Bayesian Neural Networks with Blocks: On Structure, Interpretability and Uncertainty](https://arxiv.org/abs/1806.03563)
+## Connecting Bayesian neural networks with Gaussian Processes
+1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
+
+2. [Gaussian process behaviour in wide deep neural networks](https://arxiv.org/abs/1804.11271)
+
+3. [Practical Learning of Deep Gaussian Processes via Random Fourier Features](https://pdfs.semanticscholar.org/bafa/7e2d586e7bfe77d9a55ac1cff4eb2f6ff292.pdf)
+
+4. [Deep neural networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)
+
+5. [Variational Implicit Processes](https://arxiv.org/abs/1806.02390)
+
+6. [Mapping Gaussian Process Priors to Bayesian Neural Networks](http://bayesiandeeplearning.org/2017/papers/65.pdf)
 
 ## Towards applications
 1. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
@@ -82,3 +91,9 @@
 9. [Bayesian Gradient Descent: Online Variational Bayes Learning with Increased Robustness to Catastrophic Forgetting and Weight Pruning](https://arxiv.org/pdf/1803.10123.pdf)
 
 10. [Variational Continual Learning](https://arxiv.org/pdf/1710.10628.pdf)
+
+11. [A scalable laplace approximation for neural networks](https://openreview.net/pdf?id=Skdvd2xAZ)
+
+12. [Online Structured Laplace Approximations For Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1805.07810)
+
+13. [Loss-Calibrated Approximate Inference in Bayesian Neural Networks](https://arxiv.org/abs/1805.03901)
