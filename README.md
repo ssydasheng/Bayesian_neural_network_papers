@@ -62,6 +62,8 @@
 
 9. [Reliable Uncertainty Estimates in Deep Neural Networks using Noise Contrastive Priors](https://arxiv.org/abs/1807.09289)
 
+10. [The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044)
+
 ## Connecting Bayesian neural networks with Gaussian Processes
 1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
