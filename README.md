@@ -5,6 +5,17 @@
 
 2. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
+## What I like the important:
+1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
+
+2. [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)
+
+3. [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390)
+
+4. [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142)
+
+5. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
+
 ## Towards better training algorithms
 1. [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](http://www.cs.toronto.edu/~fritz/absps/colt93.pdf)
 
