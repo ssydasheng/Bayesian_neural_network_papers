@@ -64,6 +64,8 @@
 
 10. [The Description Length of Deep Learning Models](https://arxiv.org/abs/1802.07044)
 
+11. [Fixing Variational Bayes: Deterministic Variational Inference for Bayesian Neural Networks](https://arxiv.org/abs/1810.03958)
+
 ## Connecting Bayesian neural networks with Gaussian Processes
 1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
