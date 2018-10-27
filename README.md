@@ -5,7 +5,7 @@
 
 2. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
-## What I like the important:
+## What I like the most:
 1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
 2. [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)
