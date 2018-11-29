@@ -54,6 +54,8 @@
 
 8. [Adversarial Distillation of Bayesian Neural Network Posteriors](https://arxiv.org/abs/1806.10317)
 
+9. [SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient](https://arxiv.org/abs/1811.04504)
+
 ## Towards better models (Structure + Prior)
 1. [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557)
 
