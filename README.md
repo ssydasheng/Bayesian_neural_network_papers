@@ -79,6 +79,8 @@
 
 11. [Fixing Variational Bayes: Deterministic Variational Inference for Bayesian Neural Networks](https://arxiv.org/abs/1810.03958)
 
+12. [Understanding Priors in Bayesian Neural Networks at the Unit Level](https://arxiv.org/pdf/1810.05193.pdf)
+
 ## Connecting Bayesian neural networks with Gaussian Processes
 1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
