@@ -16,6 +16,8 @@
 
 5. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
 
+6. [Functional Variational Bayesian Neural Networks](https://arxiv.org/pdf/1903.05779.pdf)
+
 ## Towards better training algorithms
 1. [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](http://www.cs.toronto.edu/~fritz/absps/colt93.pdf)
 
@@ -81,6 +83,10 @@
 
 12. [Understanding Priors in Bayesian Neural Networks at the Unit Level](https://arxiv.org/pdf/1810.05193.pdf)
 
+13. [Functional Variational Bayesian Neural Networks](https://arxiv.org/pdf/1903.05779.pdf)
+
+14. [Function Space Particle Optimization for Bayesian Neural Networks](https://arxiv.org/abs/1902.09754)
+
 ## Connecting Bayesian neural networks with Gaussian Processes
 1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
 
@@ -93,6 +99,8 @@
 5. [Variational Implicit Processes](https://arxiv.org/abs/1806.02390)
 
 6. [Mapping Gaussian Process Priors to Bayesian Neural Networks](http://bayesiandeeplearning.org/2017/papers/65.pdf)
+
+7. [Functional Variational Bayesian Neural Networks](https://arxiv.org/pdf/1903.05779.pdf)
 
 ## Towards applications
 1. [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
